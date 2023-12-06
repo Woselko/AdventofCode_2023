@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_GearRatios", "..\Day3_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4_Scratchcards", "..\Day4_Scratchcards\Day4_Scratchcards.csproj", "{E363AAFC-9E64-495A-B5C5-1DE2AE5DCE61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day5_IfYouGiveASeed Fertilizer", "..\Day5_IfYouGiveASeed Fertilizer\Day5_IfYouGiveASeed Fertilizer.csproj", "{21295502-C3EF-4E30-809D-6433936035A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day5_IfYouGiveASeed Fertilizer", "..\Day5_IfYouGiveASeed Fertilizer\Day5_IfYouGiveASeed Fertilizer.csproj", "{21295502-C3EF-4E30-809D-6433936035A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day6_WaitForIt", "..\Day6_WaitForIt\Day6_WaitForIt.csproj", "{28F8E94F-B2BE-48F0-9DEB-B0D6E6A045C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{21295502-C3EF-4E30-809D-6433936035A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21295502-C3EF-4E30-809D-6433936035A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21295502-C3EF-4E30-809D-6433936035A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F8E94F-B2BE-48F0-9DEB-B0D6E6A045C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F8E94F-B2BE-48F0-9DEB-B0D6E6A045C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F8E94F-B2BE-48F0-9DEB-B0D6E6A045C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F8E94F-B2BE-48F0-9DEB-B0D6E6A045C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
